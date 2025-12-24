@@ -2,7 +2,7 @@
 
 A lightweight, interactive web application designed to help users prepare for the Alberta Basic Licence Driver's Knowledge Test (Class 7). This single-page application features 120 randomized questions covering road rules, safety regulations, and traffic sign identification.
 
-**[▶️ View Live Demo](https://inspiring-kitten-4e8631.netlify.app/driver_quiz.html)**
+**[▶️ View Live Demo](https://abkt.netlify.app/)**
 
 ## 📋 Features
 
